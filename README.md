@@ -49,6 +49,9 @@ sudo chmod 666 /dev/myled0 ・・・
 ## Youtube
 https://youtu.be/OwW6O0iICZw
 
+## オリジナル作者
+加藤舞子
+
 ## 協力者
 小村岳都
 西廣巧
